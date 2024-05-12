@@ -1,2 +1,2 @@
 # Weather-App
-Weather forecasting app using API. To this I used react native frame work.And I did this in th visual studio IDE.
+To do this I used react native frame work. After searching a city you can see the next 7 days weather conditions.
